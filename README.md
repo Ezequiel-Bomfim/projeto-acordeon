@@ -31,7 +31,7 @@ Aqui irei citar alguns dos meus desafios
 
 - Fazer as respostas aparecerem.
 
-## Coisas que aprendi
+## 🧑🏽‍💻 Coisas que aprendi
 
 Nesse projeto consegui evoluir um pouco mais as minhas habilidades e maneiras de resolver problemas e aqui eu vou citar alguns deles.
 
